@@ -20,4 +20,4 @@ https://www.getpostman.com/collections/f566635f6bd3e9249781
 
 <br/>
 
-###### © 2022 OTP SMS genarator ~Sahan Nimesha~
+###### © 2022 Mini Assignment ~Sahan Nimesha~
