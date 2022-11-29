@@ -1,4 +1,4 @@
-# OTP SMS GENARATOR
+# MINI ASSIGNMENT
 
 ### Language & framework stack
 Java , Spring boot , SQL 
