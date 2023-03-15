@@ -1,7 +1,7 @@
 # MINI ASSIGNMENT
 
 ### Language & framework stack
-Java , Spring boot , SQL 
+Java , Spring boot , SQL , Layered architecture
 
 ### Steps to run
 1. `Clone project from git reposiory` <br>
